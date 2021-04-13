@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadshot465" alt="deadshot465" /></a> </p>
 
-- 🔭 I’m currently working on **personal projects and open for jobs.**
+- 🔭 I’m currently working on **personal projects.**
 
 - 🌱 I’m currently learning **functional programming, specifically OCaml, Haskell, F#, Elixir. Clojure and Scala are also on the list.**
 
