@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **personal projects.**
 
-- 🌱 I’m currently learning **functional programming, specifically OCaml, Haskell, F#, Elixir. Clojure and Scala are also on the list.**
+- 🌱 I’m currently learning **functional programming, specifically OCaml, Haskell, F#, Elixir, PureScript. Clojure, Scala, Erlang, Common Lisp, Scheme, Racket are also on the list.**
 
 - 👨‍💻 All of my projects are available at [https://tetsukizone.com/portfolio](https://tetsukizone.com/portfolio)
 
