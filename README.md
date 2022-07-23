@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadshot465" alt="deadshot465" /></a> </p>
 
-- 🔭 I’m currently working on **personal projects.**
+- 🔭 I’m currently working on **training from our company.**
 
-- 🌱 I’m currently learning **functional programming, specifically OCaml, Haskell, F#, Elixir, PureScript. Clojure, Scala, Erlang, Common Lisp, Scheme, Racket are also on the list.**
+- 🌱 I’m currently learning **functional programming, specifically OCaml, Haskell, F#, Elixir, Erlang, PureScript. Clojure, Scala, Common Lisp, Scheme, Racket are also on the list.**
 
-- 👨‍💻 All of my projects are available at [https://tetsukizone.com/portfolio](https://tetsukizone.com/portfolio)
+- 👨‍💻 Some of my projects are available at [https://tetsukizone.com/portfolio](https://tetsukizone.com/portfolio)
 
 - 📫 How to reach me **tetsuki.syu1315@gmail.com**
 
-- ⚡ Fun fact **I actually major in game programming.**
+- ⚡ Fun fact **I actually majored in political science and game (client-side) programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
