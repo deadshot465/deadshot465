@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Syu Tetsuki a.k.a. Chehui Chou</h1>
-<h3 align="center">A student who has been testing out a plethora of languages.</h3>
+<h3 align="center">A backend developer who has been testing out a plethora of languages.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deadshot465" alt="deadshot465" /></a> </p>
 
-- 🔭 I’m currently working on **training from our company.**
+- 🔭 I’m currently working on **customized AI solutions.**
 
 - 🌱 I’m currently learning **functional programming, specifically OCaml, Haskell, F#, Elixir, Erlang, PureScript. Clojure, Scala, Common Lisp, Scheme, Racket are also on the list.**
 
